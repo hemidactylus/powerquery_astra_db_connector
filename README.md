@@ -1,3 +1,16 @@
+# DEPRECATION NOTICE
+
+```Starting 2023-07-11, this repo is deprecated and archived.
+The connector has moved to its new home:
+
+https://github.com/datastax/powerquery_astra_db_connector
+```
+
+PLEASE DISREGARD THE FOLLOWING. THIS REPO IS ABANDONED.
+UPDATE YOUR [BOOKMARKS](https://github.com/datastax/powerquery_astra_db_connector).
+
+![No Entry](no-entry.png)
+
 # "Astra DB" Power Query connector
 
 A PowerQuery connector to access tables in Astra DB, backed by the REST API.
